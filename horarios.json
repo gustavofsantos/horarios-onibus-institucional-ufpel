@@ -1,0 +1,197 @@
+{
+  "anglo-ru": [
+    {
+      "horario": "07:15",
+      "ceu": true
+    },
+    {
+      "horario": "07:30",
+      "ceu": false
+    },
+    {
+      "horario": "08:00",
+      "ceu": false
+    },
+    {
+      "horario": "08:20",
+      "ceu": false
+    },
+    {
+      "horario": "09:00",
+      "ceu": false
+    },
+    {
+      "horario": "09:20",
+      "ceu": false
+    },
+    {
+      "horario": "10:00",
+      "ceu": false
+    },
+    {
+      "horario": "10:20",
+      "ceu": false
+    },
+    {
+      "horario": "11:00",
+      "ceu": true
+    },
+    {
+      "horario": "11:20",
+      "ceu": false
+    },
+    {
+      "horario": "11:20",
+      "ceu": false
+    },
+    {
+      "horario": "11:50",
+      "ceu": false
+    },
+    {
+      "horario": "12:00",
+      "ceu": false
+    },
+    {
+      "horario": "12:20",
+      "ceu": false
+    },
+    {
+      "horario": "12:50",
+      "ceu": false
+    },
+    {
+      "horario": "13:00",
+      "ceu": false
+    },
+    {
+      "horario": "13:30",
+      "ceu": false
+    },
+    {
+      "horario": "14:00",
+      "ceu": false
+    },
+    {
+      "horario": "14:20",
+      "ceu": false
+    },
+    {
+      "horario": "15:00",
+      "ceu": false
+    },
+    {
+      "horario": "15:20",
+      "ceu": false
+    },
+    {
+      "horario": "16:00",
+      "ceu": false
+    },
+    {
+      "horario": "16:20",
+      "ceu": false
+    },
+    {
+      "horario": "16:50",
+      "ceu": false
+    },
+    {
+      "horario": "17:00",
+      "ceu": true
+    },
+    {
+      "horario": "17:20",
+      "ceu": false
+    },
+    {
+      "horario": "18:00",
+      "ceu": false
+    },
+    {
+      "horario": "18:20",
+      "ceu": false
+    },
+    {
+      "horario": "19:00",
+      "ceu": false
+    },
+    {
+      "horario": "19:20",
+      "ceu": false
+    },
+    {
+      "horario": "20:00",
+      "ceu": false
+    },
+    {
+      "horario": "20:20",
+      "ceu": false
+    },
+    {
+      "horario": "21:00",
+      "ceu": false
+    },
+    {
+      "horario": "21:20",
+      "ceu": false
+    },
+    {
+      "horario": "22:00",
+      "ceu": true
+    },
+    {
+      "horario": "22:20",
+      "ceu": true
+    }
+  ],
+  "anglo-med": [
+    {
+      "horario": "07:30"
+    },
+    {
+      "horario": "09:30"
+    },
+    {
+      "horario": "11:30"
+    },
+    {
+      "horario": "13:00"
+    },
+    {
+      "horario": "15:30"
+    },
+    {
+      "horario": "17:30"
+    },
+    {
+      "horario": "18:30"
+    },
+    {
+      "horario": "20:30"
+    },
+    {
+      "horario": "22:20"
+    }
+  ],
+  "anglo-esef": [
+    {
+      "horario": "11:30"
+    },
+    {
+      "horario": "13:00"
+    },
+    {
+      "horario": "17:00"
+    },
+    {
+      "horario": "18:30"
+    }
+  ],
+  "anglo-capao": [
+
+  ],
+  "capao-anglo": [
+    
+  ]
+}
